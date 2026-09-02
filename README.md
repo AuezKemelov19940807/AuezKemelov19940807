@@ -29,3 +29,4 @@ I build web applications with **TypeScript, Node.js, NestJS and React**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge\&logo=vitest\&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/roenbis/roenbis/output/snake.svg" alt="Snake animation" />
