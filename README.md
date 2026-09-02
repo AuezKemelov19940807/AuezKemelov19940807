@@ -29,9 +29,32 @@ I build web applications with **TypeScript, Node.js, NestJS and React**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge\&logo=vitest\&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/AuezKemelov19940807/AuezKemelov19940807/output/snake.svg" alt="Snake animation" />
-<img
-  src="https://raw.githubusercontent.com/AuezKemelov19940807/AuezKemelov19940807/main/profile-3d-contrib/profile-green-animate.svg"
-  alt="3D Contribution Graph"
-  width="100%"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AuezKemelov19940807/AuezKemelov19940807/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AuezKemelov19940807/AuezKemelov19940807/output/snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/AuezKemelov19940807/AuezKemelov19940807/output/snake.svg"
+    alt="GitHub Snake"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AuezKemelov19940807/AuezKemelov19940807/main/profile-3d-contrib/profile-night-green.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AuezKemelov19940807/AuezKemelov19940807/main/profile-3d-contrib/profile-green-animate.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/AuezKemelov19940807/AuezKemelov19940807/main/profile-3d-contrib/profile-green-animate.svg"
+    alt="3D Contribution Graph"
+    width="860"
+  />
+</picture>
