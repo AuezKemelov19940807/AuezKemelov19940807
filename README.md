@@ -30,3 +30,8 @@ I build web applications with **TypeScript, Node.js, NestJS and React**.
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge\&logo=vitest\&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/AuezKemelov19940807/AuezKemelov19940807/output/snake.svg" alt="Snake animation" />
+<img
+  src="https://raw.githubusercontent.com/AuezKemelov19940807/AuezKemelov19940807/main/profile-3d-contrib/profile-green-animate.svg"
+  alt="3D Contribution Graph"
+  width="100%"
+/>
